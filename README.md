@@ -1,4 +1,4 @@
-# Falsitron discovery 
+# Falsitron identification 
 
 Main scripts for the paper: 
 
@@ -8,7 +8,7 @@ Main scripts for the paper:
 ![Falsitron detection pipeline and example](./figures/pipeline.png)
 
 
-Isoform identification 
+Isoform annotation 
 ======================
 
 The identification of isoforms from long read data is made following the [ONT pipeline based on stringtie and other tools](https://github.com/nanoporetech/pipeline-nanopore-ref-isoforms)
@@ -36,7 +36,7 @@ The input file contains the following lines:
 - path to the target BAM file 
 - output path including prefix to use on the output files
 
-An example of this file is contained in the input folder. 
+An example of this file is contained [here](data/example_input). 
 
 **query** = Library with potential artifacts (usually cDNA)
 
@@ -44,6 +44,18 @@ An example of this file is contained in the input folder.
 
 
 The script will output the candidates under different filters, as described in the figure above. 
+
+
+Repeat search
+-------------------------------------
+
+The script `repeat_search.R` is used to process the file with the filter F3 in order to seach for direct repeats in the candidates. 
+
+
+
+
+
+
 
 
 

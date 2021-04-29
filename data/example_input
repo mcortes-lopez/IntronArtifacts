@@ -1,0 +1,9 @@
+cDNA
+dRNA
+StringTie_pipeline/gffcomparisons/cDNA_to_dRNA.tracking
+StringTie_pipeline/gffcomparisons/dRNA_to_cDNA.tracking
+StringTie_pipeline/isoforms_cDNA/results/annotation/str_merged.gff
+StringTie_pipeline/isoforms_dRNA/results/annotation/str_merged.gff
+StringTie_pipeline/isoforms_cDNA/alignments/reads_aln_sorted.bam
+StringTie_pipeline/isoforms_dRNA/alignments/reads_aln_sorted.bam
+output/NA12878_
