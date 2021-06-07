@@ -1,5 +1,7 @@
 # Falsitron identification 
 
+[![DOI](https://zenodo.org/badge/360862730.svg)](https://zenodo.org/badge/latestdoi/360862730)
+
 Main scripts for the paper: 
 
 **Direct long-read RNA sequencing identifies a subset of questionable exitrons likely arising from reverse transcription artifacts**
@@ -49,7 +51,7 @@ The script will output the candidates under different filters, as described in t
 Repeat search
 -------------------------------------
 
-The script `repeat_search.R` is used to process the file with the filter F3 in order to seach for direct repeats in the candidates. 
+The script `repeat_search.R` is used to process the file with the filter F3 in order to search for direct repeats in the candidates. 
 
 
 
