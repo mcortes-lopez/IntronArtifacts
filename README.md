@@ -11,7 +11,7 @@ Main scripts for the paper:
 Isoform annotation 
 ======================
 
-The identification of isoforms from long read data is made following the [ONT pipeline based on stringtie and other tools](https://github.com/nanoporetech/pipeline-nanopore-ref-isoforms)
+The identification of isoforms from long read data is made following the [ONT pipeline based on StringTie and other tools](https://github.com/nanoporetech/pipeline-nanopore-ref-isoforms)
 
 cDNA and directRNA reads are processed independently and using the default parameters of the pipeline. 
 
