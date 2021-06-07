@@ -1,0 +1,9 @@
+dcDNA
+cDNA
+../gffcompare_res/HepG2_dcDNA_cDNA.tracking
+../gffcompare_res/HepG2_cDNA_dcDNA.tracking
+../HepG2/dcDNA_isoforms/results/annotation/str_merged.gff
+../HepG2/cDNA_isoforms/results/annotation/str_merged.gff
+../HepG2/dcDNA_isoforms/alignments/reads_aln_sorted.bam
+../HepG2/cDNA_isoforms/alignments/reads_aln_sorted.bam
+output/HepG2_

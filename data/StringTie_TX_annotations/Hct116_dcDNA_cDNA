@@ -1,0 +1,9 @@
+dcDNA
+cDNA
+../gffcompare_res/Hct116_dcDNA_cDNA.tracking
+../gffcompare_res/Hct116_cDNA_dcDNA.tracking
+../Hct116/dcDNA_isoforms/results/annotation/str_merged.gff
+../Hct116/cDNA_isoforms/results/annotation/str_merged.gff
+../Hct116/dcDNA_isoforms/alignments/reads_aln_sorted.bam
+../Hct116/cDNA_isoforms/alignments/reads_aln_sorted.bam
+output/Hct116_

@@ -1,0 +1,9 @@
+cDNA
+dRNA
+../gffcompare_res/K562_cDNA_dRNA.tracking
+../gffcompare_res/K562_dRNA_cDNA.tracking
+../K562/cDNA_isoforms/results/annotation/str_merged.gff
+../K562/dRNA_isoforms/results/annotation/str_merged.gff
+../K562/cDNA_isoforms/alignments/reads_aln_sorted.bam
+../K562/dRNA_isoforms/alignments/reads_aln_sorted.bam
+output/K562_

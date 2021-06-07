@@ -1,0 +1,9 @@
+dRNA
+cDNA
+../gffcompare_res/A549_dRNA_cDNA.tracking
+../gffcompare_res/A549_cDNA_dRNA.tracking
+../A549/dRNA_isoforms/results/annotation/str_merged.gff
+../A549/cDNA_isoforms/results/annotation/str_merged.gff
+../A549/dRNA_isoforms/alignments/reads_aln_sorted.bam
+../A549/cDNA_isoforms/alignments/reads_aln_sorted.bam
+output/A549_

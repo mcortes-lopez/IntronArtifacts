@@ -1,0 +1,9 @@
+dRNA
+cDNA
+/fsimb/groups/imb-koeniggr/mariela/CD19/Nanopore-WGS-data/update_Dec2020/StringTie_pipeline/gffcomparisons/dRNA_to_cDNA.tracking
+/fsimb/groups/imb-koeniggr/mariela/CD19/Nanopore-WGS-data/update_Dec2020/StringTie_pipeline/gffcomparisons/cDNA_to_dRNA.tracking
+/fsimb/groups/imb-koeniggr/mariela/CD19/Nanopore-WGS-data/update_Dec2020/StringTie_pipeline/isoforms_dRNA/results/annotation/str_merged.gff
+/fsimb/groups/imb-koeniggr/mariela/CD19/Nanopore-WGS-data/update_Dec2020/StringTie_pipeline/isoforms_cDNA/results/annotation/str_merged.gff
+/fsimb/groups/imb-koeniggr/mariela/CD19/Nanopore-WGS-data/update_Dec2020/StringTie_pipeline/isoforms_dRNA/alignments/reads_aln_sorted.bam
+/fsimb/groups/imb-koeniggr/mariela/CD19/Nanopore-WGS-data/update_Dec2020/StringTie_pipeline/isoforms_cDNA/alignments/reads_aln_sorted.bam
+output/NA12878_

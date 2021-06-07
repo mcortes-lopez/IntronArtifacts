@@ -1,0 +1,9 @@
+cDNA
+dRNA
+../gffcompare_res/MCF7_cDNA_dRNA.tracking
+../gffcompare_res/MCF7_dRNA_cDNA.tracking
+../MCF7/cDNA_isoforms/results/annotation/str_merged.gff
+../MCF7/dRNA_isoforms/results/annotation/str_merged.gff
+../MCF7/cDNA_isoforms/alignments/reads_aln_sorted.bam
+../MCF7/dRNA_isoforms/alignments/reads_aln_sorted.bam
+output/MCF7_
